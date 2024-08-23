@@ -51,3 +51,4 @@
    This script will extract text from the specified PDF, query the LLM with the provided questions, and post the results to Slack.
 
 
+future prospects: https://docs.google.com/document/d/16KZogYyNyAZs0NuucUQQJ4LRAwLlfusQt-71dsvz_Zo/edit?usp=sharing
